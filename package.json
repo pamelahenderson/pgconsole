@@ -1,0 +1,10 @@
+{
+  "name": "pgconsole",
+  "version": "0.1.0",
+  "description": "Minimal Postgres editor for speed, collaboration, and AI",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
