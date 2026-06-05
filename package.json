@@ -1,6 +1,6 @@
 {
   "name": "pgconsole",
-  "version": "0.1.17",
+  "version": "0.1.18",
   "description": "Minimal Postgres editor for speed, collaboration, and AI",
   "main": "src/index.ts",
   "scripts": {
